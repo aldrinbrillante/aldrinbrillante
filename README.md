@@ -1,5 +1,5 @@
 ### Hi there, I'm Aldrin Brillante - 👋
-
+```Kudos credits to codeSTACKR for assisting me in styling my profile```
 
 
 ## I'm a Programmer, Photographer, Tutor, Martial Artist, and a Foodie Enthusiast!
