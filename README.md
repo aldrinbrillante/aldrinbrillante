@@ -1,7 +1,9 @@
 # Hello, folks! My name is Aldrin Brillante -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 ## I'm a Programmer, Photographer, Tutor, Martial Artist, and a Foodie Enthusiast!
 
+**About Me** :man-raising-hand::skin-tone-2: 
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed 🤣)
