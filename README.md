@@ -73,6 +73,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   [![Aldrin's Github Stats](https://github-readme-stats.vercel.app/api?username=aldrinbrillante)](https://github.com/aldrinbrillante/github-readme-stats)
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starlightromero&show_icons=true" alt="starlightromero" /></p>
 
 
 </details>
