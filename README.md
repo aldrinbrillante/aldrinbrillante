@@ -48,15 +48,15 @@
 
 ---
 
-### 📕 Latest Blog Posts
+<details>
+  <summary>📕 Latest Blog Posts</summary>
+  <!-- BLOG-POST-LIST:START -->
+  - [001: Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
+  <!-- BLOG-POST-LIST:END -->
 
-<!-- BLOG-POST-LIST:START -->
-- [001: Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
-<!-- BLOG-POST-LIST:END -->
+  ➡️ [more blog posts...](https://medium.com/@aldrinbrillante)
+</details>
 
-➡️ [more blog posts...](https://medium.com/@aldrinbrillante)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
