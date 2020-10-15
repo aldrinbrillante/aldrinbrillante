@@ -1,4 +1,4 @@
-# Hello, folks! My name is Aldrin Brillante -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! I'm Aldrin Brillante -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## Programmer | Tutor | Traveler | Foodie Enthusiast
@@ -8,7 +8,7 @@
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed 🤣)
 - 🥅 2020 Goals: Push Code into my Github more often!!! 
-- ⚡ Fun fact: I am in love with traveling the world. 🌎
+- ⚡ Fun fact: I love solving coding problems! 👨🏻‍💻 
 
 ### Connect with me:
 
