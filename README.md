@@ -48,15 +48,27 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [001: Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@aldrinbrillante)
+
+
 <details>
   <summary>📕 Latest Blog Posts</summary>
-  <!-- BLOG-POST-LIST:START -->
-  - [001: Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
-  <!-- BLOG-POST-LIST:END -->
+  
+<!--START_SECTION:activity-->
+1. 💪[001:Faulty Education](https://github.com/aldrinbrillante/MS-Intensive-1.1)
+<!--END_SECTION:activity-->
 
-  ➡️ [more blog posts...](https://medium.com/@aldrinbrillante)
+➡️ [more Blog activity...](https://github.com/aldrinbrillante?tab=repositories)
+
 </details>
 
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
