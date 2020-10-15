@@ -8,7 +8,7 @@
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed 🤣)
 - 🥅 2020 Goals: Push Code into my Github more often!!! 
-- ⚡ Fun fact: I love traveling the world. 🌎 Antartica is the only continent I have yet to visit!
+- ⚡ Fun fact: I am in love with traveling the world. 🌎
 
 ### Connect with me:
 
