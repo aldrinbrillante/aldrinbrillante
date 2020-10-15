@@ -47,15 +47,17 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA?view_as=subscriber)
 
 ---
+<details>
+  <summary>📺 Latest Youtube Videos</summary>
+  
+<!--START_SECTION:activity-->
+1. 📺[her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k)
+<!--END_SECTION:activity-->
 
-### 📕 Latest Blog Posts
+➡️ [more videos...](https://www.youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA?view_as=subscriber)
 
-<!-- BLOG-POST-LIST:START -->
-- [001: Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@aldrinbrillante)
-
+</details>
+---
 
 <details>
   <summary>📕 Latest Blog Posts</summary>
@@ -80,6 +82,8 @@
 ➡️ [more Github activity...](https://github.com/aldrinbrillante?tab=repositories)
 
 </details>
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
