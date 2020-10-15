@@ -7,7 +7,7 @@
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed 🤣)
-- 🥅 2020 Goals: Push Code into my Github more
+- 🥅 2020 Goals: Push Code into my Github more often!!! 
 - ⚡ Fun fact: I love traveling the world. 🌎 Antartica is the only continent I have yet to visit!
 
 ### Connect with me:
@@ -71,7 +71,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
+
   [![Aldrin's Github Stats](https://github-readme-stats.vercel.app/api?username=aldrinbrillante)](https://github.com/aldrinbrillante/github-readme-stats)
 
 
