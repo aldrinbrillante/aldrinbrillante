@@ -40,9 +40,9 @@
 <details>
   <summary>📺 Latest Youtube Videos</summary>
   
-<!--START_SECTION:activity-->
-1. 📺[her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k)
-<!--END_SECTION:activity-->
+<!--START_SECTION:youtube activity-->
+1. 📺 [her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k)
+<!--END_SECTION:youtube activity-->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA?view_as=subscriber)
 
@@ -54,10 +54,10 @@
   <summary>📕 Latest Blog Posts</summary>
   
 <!--START_SECTION:activity-->
-1. 💪[001:Faulty Education](https://github.com/aldrinbrillante/MS-Intensive-1.1)
+1. 📕 [001:Faulty Education](https://medium.com/@aldrinbrillante/areas-of-interest-9ddc60295569)
 <!--END_SECTION:activity-->
 
-➡️ [more Blog activity...](https://github.com/aldrinbrillante?tab=repositories)
+➡️ [more Blog activity...](https://medium.com/@aldrinbrillante)
 
 </details>
 
@@ -67,7 +67,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪[Created Complex Speech Recognition Chat Bot for MS Intensive (MS Hackathon)](https://github.com/aldrinbrillante/MS-Intensive-1.1)
+1. 💪 [Created Complex Speech Recognition Chat Bot for MS Intensive (MS Hackathon)](https://github.com/aldrinbrillante/MS-Intensive-1.1)
 <!--END_SECTION:activity-->
 
 ➡️ [more Github activity...](https://github.com/aldrinbrillante?tab=repositories)
