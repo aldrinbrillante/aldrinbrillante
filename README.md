@@ -37,16 +37,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k)
-- [Sandys || Oahu, HI](https://www.youtube.com/watch?v=bcXnrcnobq0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA?view_as=subscriber)
-
----
 <details>
   <summary>📺 Latest Youtube Videos</summary>
   
@@ -57,6 +47,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA?view_as=subscriber)
 
 </details>
+
 ---
 
 <details>
