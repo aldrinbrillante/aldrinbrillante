@@ -1,6 +1,6 @@
 ### Hi there, I'm Aldrin Brillante - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/drinbrillante)
+[![Twitter Instagram](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/drinbrillante)
 
 ## I'm a Programmer, Photographer, Tutor, Martial Artist, and a Foodie Enthusiast!
 
