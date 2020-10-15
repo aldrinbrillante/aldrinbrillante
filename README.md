@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k&t=12s)
+- [her (ft. Palawan) || GoPro 6 Freediving in Palawan, Philippines](https://www.youtube.com/watch?v=oGTZlNMB37k)
 - [Sandys || Oahu, HI](https://www.youtube.com/watch?v=bcXnrcnobq0)
 <!-- YOUTUBE:END -->
 
@@ -62,12 +62,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. 💪[Created Complex Speech Recognition Chat Bot for MS Intensive (MS Hackathon)](https://github.com/aldrinbrillante/MS-Intensive-1.1)
 <!--END_SECTION:activity-->
+
+➡️ [more Github activity...](https://github.com/aldrinbrillante?tab=repositories)
 
 </details>
 
