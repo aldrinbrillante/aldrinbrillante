@@ -6,7 +6,7 @@
 ### About Me 🙋🏻‍♂️
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
-- 👯 I enjoy working in teams! (or by myself if needed 🤣)
+- 👯 I enjoy working in teams! (or by myself if needed)
 - 🥅 2020 Goals: Push Code into my Github more often!!! 
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
