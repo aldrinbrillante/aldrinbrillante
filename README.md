@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Aldrin's Github Stats](https://github-readme-stats.vercel.app/api?username=aldrinbrillante)](https://github.com/aldrinbrillante/github-readme-stats)
+  [![Aldrin's github stats](https://github-readme-stats.vercel.app/api?username=aldrinbrillante)](https://github.com/aldrinbrillante/github-readme-stats)
 
   [![Aldrin's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinbrillante&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinbrillante&layout=compact)
 
