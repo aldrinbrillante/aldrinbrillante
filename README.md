@@ -90,5 +90,5 @@
 [twitter]: https://twitter.com/drinbrillante
 [youtube]: https://youtube.com/channel/UCChZ5EKe0IipouRD0Jm37oA
 [instagram]: https://www.instagram.com/nirdla_/
-[linkedin]: https://linkedin.com/aldrin-brillante-n
+[linkedin]: https://www.linkedin.com/in/aldrin-brillante-n/
 [githubrepos]: https://github.com/aldrinbrillante?tab=repositories
