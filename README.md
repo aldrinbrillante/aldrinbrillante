@@ -33,8 +33,17 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][githubrepos]
 
 <br />
-<br />
 
+### Repo Passion Project Index 🙋🏻‍♂️
+- **ALG** - Algorithm/Data Structures Project
+- **DS** - Data Science Project
+- 👯 I enjoy working in teams! (or by myself if needed)
+- 🥅 2020 Goals: Push Code into my Github more often!!! 
+- ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
+
+
+<br />
+<br />
 ---
 
 <details>
