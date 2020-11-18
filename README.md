@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Push Code into my Github more often!!! 
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
-### Repo Passion Project Index 🙋🏻‍♂️
+### Repo Passion Project Index 🏆
 - **ALG** - Algorithm/Data Structures 📈
 - **CL** - Cloning of Website 🧑🏻‍💻🧑🏻‍💻
 - **DS** - Data Science and/or Big Data Project 📊
@@ -75,7 +75,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 [Created Complex Speech Recognition Chat Bot for MS Intensive (MS Hackathon)](https://github.com/aldrinbrillante/MS-Intensive-1.1)
+1. 💪 [Created Voice Recognition Chat Bot for MS Intensive (MS Hackathon | Python, Pygame)](https://github.com/aldrinbrillante/MS-Intensive-1.1)
 <!--END_SECTION:activity-->
 
 ➡️ [more Github activity...](https://github.com/aldrinbrillante?tab=repositories)
