@@ -10,16 +10,12 @@
 - 🥅 2020 Goals: Push Code into my Github more often!!! 
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
-<br />
-
 ### Repo Passion Project Index 🙋🏻‍♂️
 - **ALG** - Algorithm/Data Structures 📈
 - **CL** - Cloning of Website 🧑🏻‍💻🧑🏻‍💻
 - **DS** - Data Science and/or Big Data Project 📊
 - **ML** - Machine Learning Integration Project 🤖
 - **WD** - Website Development Project 💻
-
-<br />
 
 ### Languages and Tools (Not the whole list):
 
@@ -45,6 +41,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
 ---
 
 <details>
