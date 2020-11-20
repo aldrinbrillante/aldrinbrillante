@@ -7,13 +7,14 @@
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed)
-- 🥅 2020 Goals: Push Code into my Github more often!!! 
+- 🥅  2020 Goals: Push Code into my Github more often!!! 
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
 ### Repo Passion Project Index 🏆
 - **ALG** - Algorithm/Data Structures 📈
 - **CL** - Cloning of Website 🧑🏻‍💻🧑🏻‍💻
 - **DS** - Data Science and/or Big Data Project 📊
+- **iOS** - iOS Development Project 📱
 - **ML** - Machine Learning Integration Project 🤖
 - **WD** - Website Development Project 💻
 
