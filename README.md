@@ -14,8 +14,9 @@
 - **ALG** - Algorithm/Data Structures 📈
 - **CL** - Cloning of Website 🧑🏻‍💻🧑🏻‍💻
 - **DS** - Data Science and/or Big Data Project 📊
+- **GD** - Game Development Project 🎮
 - **iOS** - iOS Development Project 📱
-- **ML** - Machine Learning Integration Project 🤖
+- **ML** - Machine Learning Integration Project 🤖 
 - **WD** - Website Development Project 💻
 
 ### Languages and Tools (Not the whole list):
