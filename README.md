@@ -44,7 +44,7 @@
 
 <br />
 
-![visitors] https://visitor-badge.glitch.me/badge?page_id=aldrinbrillante.visitor-badge
+![]https://visitor-badge.glitch.me/badge?page_id=aldrinbrillante.visitor-badge
 
 
 <br />
