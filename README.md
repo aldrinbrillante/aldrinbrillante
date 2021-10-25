@@ -8,7 +8,7 @@
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed)
-- 🥅  2021 Goals: Push Code into my Github more often!!! 
+- 🥅  2021 Goals: Get a full time job in Big Tech ✅
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
 ### Repo Passion Project Index 🏆
