@@ -3,6 +3,8 @@
 
 ## Product Manager @ Microsoft | Developer | Traveler | Foodie
 ## (ex-Google, ex-VMware, ex-CSC)
+## Product Manager by day 📈🧑🏻‍💻📊
+## martial artist & entrepreneur by night 🥋📈
 
 ### About Me 🙋🏻‍♂️
 - 🔭 I love learning new concepts in all aspects of life
