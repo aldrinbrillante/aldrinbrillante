@@ -1,7 +1,7 @@
 # Hello! I'm Aldrin Brillante -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## L61 Product Manager @ Microsoft | Developer | Traveler | Foodie
+## Product Manager @ Microsoft | Developer | Traveler | Foodie
 ## (ex-Google, ex-VMware, ex-CSC)
 ## Product Manager by day 📊🧑🏻‍💻 Entrepreneur by night 🥋📈
 
