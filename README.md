@@ -8,7 +8,7 @@
 - 🔭 I love learning new concepts in all aspects of life
 - 🌱 I’m environment friendly
 - 👯 I enjoy working in teams! (or by myself if needed)
-- 🥅  2022 Goals: Read at least one book a month 🥅
+- 🥅  2019 Goals: Read at least one book a month 🥅
 - ⚡ Fun fact: I love solving coding problems! #AlwaysLearning 👨🏻‍💻 
 
 ### Repo Passion Project Index 🏆
