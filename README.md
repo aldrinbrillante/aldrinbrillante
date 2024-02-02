@@ -2,7 +2,6 @@
 
 
 ## Developer | Traveler | Foodie
-## Product Manager by day 📊🧑🏻‍💻 Entrepreneur by night 🥋📈
 
 ### About Me 🙋🏻‍♂️
 - 🔭 I love learning new concepts in all aspects of life
