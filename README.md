@@ -1,7 +1,7 @@
 # Hello! I'm Aldrin Brillante -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Developer | Traveler | Foodie
+## Data Scientist | Leader | Student
 
 ### About Me 🙋🏻‍♂️
 - 🔭 I love learning new concepts in all aspects of life
